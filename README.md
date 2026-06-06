@@ -19,7 +19,7 @@ Deployment & Tools:: Git, GitHub, Streamlit, Hugging Face, Langchain, FAISS, Jup
 Deployment-ready Hybrid RAG system using FAISS, BM25, CrossEncoder reranking, and TinyLlama for document question answering.
 
 🔗 Demo: https://hybridsearchrag-7ke2ex929xugzgtu3sfguy.streamlit.app/
-🔗 Repository: https://github.com/Pushpendra2006/Hybrid_Search_Rag
+🔗 Repository:https://github.com/Pushpendra2006/Hybrid_Search_Rag
 
 
 ### 🧠 Brain Tumor Classification
@@ -27,7 +27,7 @@ Deployment-ready Hybrid RAG system using FAISS, BM25, CrossEncoder reranking, an
 CNN-based medical image classification system achieving 91.8% accuracy with TensorFlow.
 
 🔗 Demo: https://braintumor-ib5bnbs3ibwemwdyvdm3ks.streamlit.app/
-🔗 Repository: https://github.com/Pushpendra2006/brain_tumor_app
+🔗 Repository:https://github.com/Pushpendra2006/brain_tumor_app
 
 
 ### 💬 DistilBERT Sentiment Analysis
