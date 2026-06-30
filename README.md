@@ -18,7 +18,7 @@ Deployment & Tools:: Git, GitHub, Streamlit, Hugging Face, Langchain, FAISS, Jup
 
 Deployment-ready Hybrid RAG system using FAISS, BM25, CrossEncoder reranking, and TinyLlama for document question answering.
 
-🔗 Demo: https://hybridsearchrag-7ke2ex929xugzgtu3sfguy.streamlit.app/
+🔗 Demo: https://huggingface.co/spaces/PUSHPENDRA2006/HYBRID_RAG_AGENT
 🔗 Repository:https://github.com/Pushpendra2006/Hybrid_Search_Rag
 
 
