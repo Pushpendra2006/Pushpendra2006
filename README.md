@@ -48,7 +48,7 @@ Building production-ready AI applications that are:
 * Deployable
 🏆 Problem Solving
 
-💻 Solved 280+ DSA Problems across multiple topics.
+💻 Solved multiple DSA Problems across multiple topics.
 opics Explored
 Arrays & Strings
 Linked Lists
